@@ -1,4 +1,4 @@
 echo "hello guys....."
 echo "good morning to all...."
-echo todat date is `date`
+echo "today date is `date`
 
